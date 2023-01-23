@@ -32,7 +32,7 @@ text-align: center;
 } */
 
 h1{
-    font-size: 19px;
+    font-size: 18px;
     padding-left: 15px;
     padding-right: 15px;
     color: black;
@@ -53,7 +53,7 @@ width: 280px;
 height: 286px;
 margin: 0 auto;
 /* margin-top: 5px; */
-margin-bottom: 20px;
+margin-bottom: 15px;
 border: 1px;
 border-radius: 10px;
 }
