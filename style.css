@@ -20,7 +20,7 @@ background: rgb(194, 224, 249);
     padding-top: 15px;
     border-radius: 15px;
     /* box-shadow: 10px 10px 10px rgb(170, 160, 160); */
-    width: 320px;
+    width: 310px;
     height: 500px;
     box-sizing: border-box;
 font-family: 'Outfit', sans-serif;
@@ -38,15 +38,17 @@ h1{
     margin-bottom: 2px;
 }
 p{
-    font-size: 17px;
+    font-size: 14px;
     padding: 0 5px;
     color: gray;
     margin-top: 20px;
+    /* display: flex;
+    flex-direction: column; */
 }
 
 img{
 width: 280px;
-height: 300px;
+height: 290px;
 margin: 0 auto;
 /* margin-top: 5px; */
 margin-bottom: 10px;
