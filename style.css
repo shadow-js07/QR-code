@@ -17,7 +17,7 @@ background: rgb(194, 224, 249);
     margin: 0 auto;
     padding-left: 5px;
     padding-right: 5px;
-    padding-top: 20px;
+    padding-top: 18px;
     border-radius: 15px;
     /* box-shadow: 10px 10px 10px rgb(170, 160, 160); */
     width: 310px;
@@ -32,18 +32,18 @@ text-align: center;
 } */
 
 h1{
-    font-size: 20px;
+    font-size: 15px;
     padding-left: 15px;
     padding-right: 15px;
     color: black;
     margin-bottom: 2px;
 }
 p{
-    font-size: 14px;
+    font-size: 13px;
     margin-left: 20px;
     margin-right: 20px;
     color: gray;
-    margin-top: 20px;
+    margin-top: 10px;
     /* display: flex;
     flex-direction: column; */
 }
@@ -53,7 +53,7 @@ width: 280px;
 height: 290px;
 margin: 0 auto;
 /* margin-top: 5px; */
-margin-bottom: 10px;
+margin-bottom: 5px;
 border: 1px;
 border-radius: 10px;
 }
