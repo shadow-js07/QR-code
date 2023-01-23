@@ -18,30 +18,29 @@ background: rgb(194, 224, 249);
     padding: 15px 10px;
     border-radius: 15px;
     /* box-shadow: 10px 10px 10px rgb(170, 160, 160); */
-    width: 270px;
+    width: 300px;
+    heigth: 470;
     box-sizing: border-box;
 font-family: 'Outfit', sans-serif;
 text-align: center;
 }
-.flex{
-    display: flex;
-    flex-wrap: wrap;
-}
 
 h1{
-    font-size: 18px;
+    font-size: 20px;
     padding: 0 5px;
     color: black;
+    margin-bottom:2px;
 }
 p{
-    font-size: 13px;
+    font-size: 15px;
     padding: 0 5px;
     color: gray;
+    margin.top: 20px;
 }
 
 img{
-width: 240px;
-height: 240px;
+width: 270px;
+height: 270px;
 margin: 0 auto;
 /* padding: 5px 20px; */
 border: 1px;
